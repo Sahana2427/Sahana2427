@@ -1,7 +1,31 @@
-- 👋 Hi, I’m @Sahana2427
-- 👀 I’m interested in Data Engineering..
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Data related, Python, SQL, etc
-- 📫 How to reach me ... www.linkedin.com/in/sahana-s-dataengineer
-- ⚡ Fun fact: ...Playing with data...
+# Hi, I'm Sahana S! 👋
+## 🚀 About Me
 
+I'm a Data voyager exploring Data Analytics, Data Engineering, Data Science, Big data and, MLOps...
+    
+- 👩‍💻 I'm currently working on Azure Data Analytics...
+
+- 🧠 I'm currently learning Azure Data Engineering...
+
+- 👯‍♀️ I'm looking to collaborate on projects involving data pipeline development, big data technologies, and data visualization to drive actionable insights.
+
+- 🤔 I'm looking for help with Data Engineering
+
+- 📝 I regularly write posts/articles on data science, data engineering, analytics, big data, and MLOps.
+
+- 💬 Ask me about "Data"
+
+- 📫 How to reach me ----> Gmail: sahanasana242@gmail.com and LinkedIn : www.linkedin.com/in/sahana-s-dataengineer
+
+-- 📄 Know about where I am good at........ SQL and Python
+
+    
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" />
+</a>
+</p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
