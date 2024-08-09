@@ -19,6 +19,8 @@ I'm a Data voyager exploring Data Analytics, Data Engineering, Data Science, Big
 
 -- 📄 Know about where I am good at........ SQL and Python
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sahana2427)](https://github.com/ryo-ma/github-profile-trophy)
+
     
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,6 +28,6 @@ I'm a Data voyager exploring Data Analytics, Data Engineering, Data Science, Big
 </a>
 </p>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Sahana S. stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahana2427&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Sahana S. stats card" /></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Sahana S. stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahana2427&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="Sahana S. stats card" /></p>
